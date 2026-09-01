@@ -1,1 +1,1 @@
-export const metadata = { title: "Study Buddy", description: "Your free AI study helper", }; export default function RootLayout({ children }) { return ( <html lang="en"> <body style={{ margin: 0, fontFamily: "system-ui, sans-serif" }}> {children} </body> </html> ); }
+export const metadata = { title: "Mindloom", description: "Your free AI study helper", }; export default function RootLayout({ children }) { return ( <html lang="en"> <body style={{ margin: 0, fontFamily: "system-ui, sans-serif" }}> {children} </body> </html> ); }
